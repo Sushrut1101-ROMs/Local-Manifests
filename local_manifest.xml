@@ -13,7 +13,7 @@
 
 	<!-- Dependencies -->
 	<project path="device/samsung_slsi/sepolicy" name="android_device_samsung_slsi_sepolicy" remote="lineage" revision="lineage-19.0" />
-	<project path="hardware/samsung" name="RavenOS-Devices/hardware_samsung" remote="github" revision="lineage-19.0" />
+	<project path="hardware/samsung" name="The-Raven-OS/hardware_samsung" remote="github" revision="twelve" />
     <!--
         It is already tracked from AOSP
         <project path="hardware/samsung/nfc" name="android_hardware_samsung_nfc" remote="lineage" revision="lineage-19.0" />
